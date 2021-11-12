@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    text-decoration: darkorchid;
+    font-size: 30px;
+}
+h2{
+    color: crimson;
+    text-align: center;
+    font-weight: 600;
+    font-style: oblique;
+   
+}
+h3{
+    text-align: center;
+}
+.line{
+    width: 300px;
+}
+
+.image{
+        display: block;
+        margin: 0 auto;
+        width: 500px;
+    }
+
+
+nav{
+    position: inherit;
+    left: 0px;
+    bottom: 50px; 
+ }
+   
+
